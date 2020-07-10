@@ -4,7 +4,6 @@
 string activeTextLine;
 int textOffset = 0;
 int textSelector = 0;
-int keySelector = 0;
 int exitInput = 0;
 
 void handleKey(){
@@ -108,5 +107,6 @@ string inputView(string textLine){
     handleKey();
   }
   exitInput = 0;
+  textSelector = 0;
   return activeTextLine;
 }
