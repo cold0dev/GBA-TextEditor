@@ -14,7 +14,7 @@ Dpad Right - Move selector right
 B - Space  
 A - Finish editing  
 
-#Screenshots
+# Screenshots
 ![1](https://github.com/cold0dev/GBA-TextEditor/blob/scr/gba1.PNG?raw=true)
 ![2](https://github.com/cold0dev/GBA-TextEditor/blob/scr/gba2.PNG?raw=true)
 ![3](https://github.com/cold0dev/GBA-TextEditor/blob/scr/gba3.PNG?raw=true)
