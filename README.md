@@ -3,7 +3,7 @@ Text editor for Gameboy Advance
 Build with DevkitPro  
 
 # Usage
-View Mode:
+View Mode:  
 Dpad Up - Move selector up  
 Dpad Down - Move selector down  
 B - Insert new line  
